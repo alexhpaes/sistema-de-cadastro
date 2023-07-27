@@ -1,0 +1,3 @@
+Vamos instalar o Git para começarmos a controlar as versões dos nossos códigos. Para isso, clique neste link para abrir a página oficial do Git:
+
+https://git-scm.com/
